@@ -57,11 +57,11 @@ Why do the students decide to use a Raspberry Pi?
 
 ### Question 2
 
-What does Aki want to do when he sees the SUNEAST SSD?
+What does Aki want to do when he sees the SUN-tech SSD?
 
 1.  Install it as a backup device.
 2.  Ask Ken to buy another one.
-3.  Replace it with the available MX500.
+3.  Replace it with the available M-Series.
 4.  Test whether it can connect to the Raspberry Pi.
 
 ### Question 3
